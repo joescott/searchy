@@ -1,0 +1,5 @@
+.venv
+data
+indexdir
+*.egg-info
+__pycache__
